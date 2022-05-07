@@ -1,0 +1,6 @@
+framework module Pods_MediaListing {
+  umbrella header "Pods-MediaListing-umbrella.h"
+
+  export *
+  module * { export * }
+}
